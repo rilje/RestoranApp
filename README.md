@@ -5,7 +5,10 @@ Application that allows users to explore restaurants and their menus, place orde
 
 - **Vue.js** – For dynamic and interactive UI  
 - **Bootstrap 5** – For responsive and modern design  
-- **LocalStorage** – For storing order, menu and restoraunt data 
+
+## Data Storage
+
+- **LocalStorage** – Used to store restoraunts, menus and orders data directly in the browser 
 
 
 ## Project Setup
