@@ -1,14 +1,12 @@
-# 04_Restoran
+# RestoranApp
 
-This template should help get you started developing with Vue 3 in Vite.
+Application that allows users to explore restaurants and their menus, place orders for home delivery, and provides an admin panel for managing all orders efficiently.
+## Technologies
 
-## Recommended IDE Setup
+- **Vue.js** – For dynamic and interactive UI  
+- **Bootstrap 5** – For responsive and modern design  
+- **LocalStorage** – For storing order, menu and restoraunt data 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
